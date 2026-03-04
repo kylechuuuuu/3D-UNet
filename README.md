@@ -86,7 +86,3 @@ dataset/
 - **Foreground Oversampling**: Rejection sampling for vessel-rich patches
 - **Sliding Window Inference**: Memory-efficient full-volume prediction
 - **Learning Rate Scheduling**: ReduceLROnPlateau based on validation Dice
-
-## License
-
-MIT
